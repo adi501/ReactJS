@@ -1,13 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import FormControlledComponent from "./component/FormControlledComponent";
+import ReactEvents from "./component/ReactEvents";
 
 import "./styles.css";
 
 function App() {
   return (
     <div className="App">
-      <FormControlledComponent />
+      <ReactEvents />
     </div>
   );
 }
