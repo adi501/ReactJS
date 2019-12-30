@@ -1,13 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import ReactEvents from "./component/ReactEvents";
+import RouterEXP1 from "./component/RouterEXP1";
 
 import "./styles.css";
 
 function App() {
   return (
     <div className="App">
-      <ReactEvents />
+      <RouterEXP1 />
     </div>
   );
 }
