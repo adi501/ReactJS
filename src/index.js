@@ -1,13 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import AxiosLoadingErrorHandling from "./component/AxiosLoadingErrorHandling";
+import DynamicDropdownList from "./component/DynamicDropdownList";
 
 import "./styles.css";
 
 function App() {
   return (
     <div className="App">
-      <AxiosLoadingErrorHandling />
+      <DynamicDropdownList />
     </div>
   );
 }
