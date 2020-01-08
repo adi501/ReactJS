@@ -1,0 +1,12 @@
+https://www.mbaskool.com/business-concepts/human-resources-hr-terms/1809-job-description.html
+https://www.toppr.com/guides/business-management-and-entrpreneurship/human-resource-management/recruitment-process/
+http://www.yourarticlelibrary.com/human-resources/recruitment-meaning-and-sources-of-recruitment-with-diagram/32353
+https://ideal.com/shortlisting/
+https://www.wework.com/ideas/how-to-run-your-first-hackathon
+https://www.hackerearth.com/community-hackathons/resources/e-books/guide-to-organize-hackathon/
+https://mettl.com/research/state-of-hackathons-2018/
+https://www.humanresourcesonline.net/abwin-increased-job-satisfaction-employees/
+https://www.mbaskool.com/business-concepts/human-resources-hr-terms/4032-compensation-a-benefits.html
+https://www.humanresourcesmba.net/faq/what-is-a-variable-pay-incentive/
+https://www.securitas.in/our-offerings/background-verification-services/
+https://www.wikijob.co.uk/content/industry/sales-recruitment-consulting/what-headhunting
