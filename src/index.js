@@ -1,13 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import DynamicDropdownList from "./component/DynamicDropdownList";
+import UrlExp from "./component/UrlExp";
 
 import "./styles.css";
 
 function App() {
   return (
     <div className="App">
-      <DynamicDropdownList />
+      <UrlExp />
     </div>
   );
 }
